@@ -1,0 +1,16 @@
+{
+  "name": "steve",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "trulytyler git config --global user.email “tylerharrisdesign@gmail.com <YOUR@EMAIL.com>",
+
+  "description": "steve is very chel",
+
+  "dependencies": {
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
